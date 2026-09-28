@@ -1,0 +1,9 @@
+{
+    "port": 5000,
+    "connectionTimeoutMs": 3000,
+    "heartbeatIntervalMs": 1000,
+    "sendTimeIntervalMs": 1000,
+    "clockStepIntervalMs": 1000,
+    "clockStepSeconds": 60,
+    "clockResumeDelayMs": 5000
+}

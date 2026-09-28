@@ -1,0 +1,6 @@
+/build/
+/.qtcreator/
+/Cloack/
+CMakeUserPresets.json
+*.user
+*.user.*
